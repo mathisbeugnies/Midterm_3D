@@ -1,0 +1,6 @@
+*.png
+Intermediate/
+Saved/
+DerivedDataCache/
+*.docx
+*.mkv
